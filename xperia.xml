@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <yuga>
+            <Filename>ResurrectionRemix-M-v5.6.8-20160515-yuga.zip</Filename>
+            <BuildsUrl
+            	id="builds"
+            	title="LatestBuild"
+            	description="Download Latest Build">http://bit.ly/1TUqVsi</BuildsUrl>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix Xperia Z builds">https://s.basketbuild.com/devs/resurrectionremix/yuga</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+            <BanksGappsUrl
+            	id="banks_gapps"
+            	title="BaNkS Dynamic GApps"
+            	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps</BanksGappsUrl>
+	</yuga>
+        <odin>
+            <Filename>ResurrectionRemix-M-v5.6.8-20160515-odin.zip</Filename>
+            <BuildsUrl
+            	id="builds"
+            	title="LatestBuild"
+            	description="Download Latest Build">http://bit.ly/1qlBZEy</BuildsUrl>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix Xperia ZL builds">https://s.basketbuild.com/devs/resurrectionremix/odin</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+            <BanksGappsUrl
+            	id="banks_gapps"
+            	title="BaNkS Dynamic GApps"
+            	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps</BanksGappsUrl>
+	</odin>
+        <dogo>
+            <Filename>ResurrectionRemix-M-v5.6.8-20160514-dogo.zip</Filename>
+            <BuildsUrl
+            	id="builds"
+            	title="LatestBuild"
+            	description="Download Latest Build">http://bit.ly/1Wzw8t1</BuildsUrl>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix Xperia ZR builds">https://s.basketbuild.com/devs/resurrectionremix/dogo</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+            <BanksGappsUrl
+            	id="banks_gapps"
+            	title="BaNkS Dynamic GApps"
+            	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps</BanksGappsUrl>
+	</dogo>	
+    </Stable>
+</SlimOTA>
