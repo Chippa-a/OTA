@@ -15,6 +15,10 @@
                 id="changelog"
                 title="Changelog"
                 description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <XDAUrl
+            	id="xda_thread"
+            	title="RR-M Xperia Z thread on XDA"
+            	description="Visit device thread">http://bit.ly/22m9d4B</XDAUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
@@ -38,6 +42,10 @@
                 id="changelog"
                 title="Changelog"
                 description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <XDAUrl
+            	id="xda_thread"
+            	title="RR-M Xperia ZL thread on XDA"
+            	description="Visit device thread">http://bit.ly/1TuTniw</XDAUrl>	
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
@@ -61,6 +69,10 @@
                 id="changelog"
                 title="Changelog"
                 description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <XDAUrl
+            	id="xda_thread"
+            	title="RR-M Xperia ZR thread on XDA"
+            	description="Visit device thread">http://bit.ly/1XNE49O</XDAUrl>               
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
