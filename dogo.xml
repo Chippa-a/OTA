@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>Flyme OS</RomName>
+  <VersionName> 5.1.6.13R beta</VersionName>
+  <VersionNumber type="integer">20160614</VersionNumber>
+  <DirectUrl>http://</DirectUrl>
+  <Android>5.1.1</Android>
+  <CheckMD5></CheckMD5>
+  <FileSize type="integer"></FileSize>
+  <Developer>Chippa_a</Developer>
+  <WebsiteURL>http://bit.ly/2381N5v</WebsiteURL>
+  <DonateURL>http://bit.ly/1TFGDoG</DonateURL>
+  <Changelog>### Changelog 20160614
+* Initial 5.1.6.13R release
+  </Changelog>
+</ROM>
