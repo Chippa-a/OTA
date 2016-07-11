@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>Flyme OS</RomName>
-  <VersionName> 5.1.7.4R beta</VersionName>
-  <VersionNumber type="integer">20160704</VersionNumber>
-  <DirectUrl>https://raw.githubusercontent.com/Chippa-a/OTA/flyme/dogo/ota/6.7.4/ota.zip</DirectUrl>
+  <VersionName> 5.1.7.8R beta</VersionName>
+  <VersionNumber type="integer">20160711</VersionNumber>
+  <DirectUrl>https://raw.githubusercontent.com/Chippa-a/OTA/flyme/dogo/ota/6.7.11/ota.zip</DirectUrl>
   <Android>5.1.1</Android>
-  <CheckMD5>9c092fe4536f1199944c3e255f0b1626</CheckMD5>
-  <FileSize type="integer">28023454</FileSize>
+  <CheckMD5>996bb90d6315f747e1aeb2a0c59c5c70</CheckMD5>
+  <FileSize type="integer">34656573</FileSize>
   <Developer>Chippa_a</Developer>
   <WebsiteURL>http://bit.ly/2381N5v</WebsiteURL>
   <DonateURL>http://bit.ly/1TFGDoG</DonateURL>
   <Changelog>### Changelog 20160704
-* Update 5.1.7.4R
+* Flyme v5.1.7.8R
+* Updated to latest CM-12.1 with July security patch
+* Updated kernel
   </Changelog>
   <AddonCount>2</AddonCount>
-  <AddonsURL>http://flymeota.nianrom.cn/addons.xml</AddonsURL>
+  <AddonsURL>https://raw.githubusercontent.com/Chippa-a/OTA/flyme/addons/addons.xml</AddonsURL>
 </ROM>
