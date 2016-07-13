@@ -2,14 +2,14 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <yuga>
-            <Filename>ResurrectionRemix-M-v5.7.0-20160709-yuga.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.1-20160713-yuga.zip</Filename>
             <BuildsUrl
             	id="builds"
-            	title="LatestBuild"
-            	description="Download Latest Build">http://bit.ly/29K7OnD</BuildsUrl>
+            	title="Latest Build"
+            	description="Download Latest Build">http://bit.ly/29BhYSf</BuildsUrl>
             <RomUrl
                 id="rom"
-                title="Rom"
+                title="ROM"
                 description="Download ResurrectionRemix Xperia Z builds">https://s.basketbuild.com/devs/resurrectionremix/yuga</RomUrl>
             <ChangelogUrl
                 id="changelog"
@@ -21,22 +21,22 @@
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
             <BanksGappsUrl
             	id="banks_gapps"
-            	title="BaNkS Dynamic GApps"
+            	title="Banks Dynamic GApps"
             	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps</BanksGappsUrl>
-	    <XDAUrl
+	        <XDAUrl
             	id="xda_thread"
-            	title="Xperia Z thread on XDA"
-            	description="Visit rr-m thread">http://bit.ly/22m9d4B</XDAUrl>       	
-	</yuga>
+            	title="Xperia Z RR thread on XDA"
+            	description="Go to the thread">http://bit.ly/22m9d4B</XDAUrl>
+        </yuga>
         <odin>
-            <Filename>ResurrectionRemix-M-v5.7.0-20160709-odin.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.1-20160713-odin.zip</Filename>
             <BuildsUrl
             	id="builds"
-            	title="LatestBuild"
-            	description="Download Latest Build">http://bit.ly/29oxB48</BuildsUrl>
+            	title="Latest Build"
+            	description="Download Latest Build">http://bit.ly/2a8Jo3W</BuildsUrl>
             <RomUrl
                 id="rom"
-                title="Rom"
+                title="ROM"
                 description="Download ResurrectionRemix Xperia ZL builds">https://s.basketbuild.com/devs/resurrectionremix/odin</RomUrl>
             <ChangelogUrl
                 id="changelog"
@@ -48,22 +48,22 @@
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
             <BanksGappsUrl
             	id="banks_gapps"
-            	title="BaNkS Dynamic GApps"
+            	title="Banks Dynamic GApps"
             	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps</BanksGappsUrl>
-            <XDAUrl
+	        <XDAUrl
             	id="xda_thread"
-            	title="Xperia ZL thread on XDA"
-            	description="Visit rr-m thread">http://bit.ly/1TuTniw</XDAUrl>            	
-	</odin>
+            	title="Xperia ZL RR thread on XDA"
+            	description="Go to the thread">http://bit.ly/1TuTniw</XDAUrl>          	
+        </odin>
         <dogo>
-            <Filename>ResurrectionRemix-M-v5.7.0-20160709-dogo.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.1-20160712-dogo.zip</Filename>
             <BuildsUrl
             	id="builds"
-            	title="LatestBuild"
-            	description="Download Latest Build">http://bit.ly/29CSLLa</BuildsUrl>
+            	title="Latest Build"
+            	description="Download Latest Build">http://bit.ly/29xSBBh</BuildsUrl>
             <RomUrl
                 id="rom"
-                title="Rom"
+                title="ROM"
                 description="Download ResurrectionRemix Xperia ZR builds">https://s.basketbuild.com/devs/resurrectionremix/dogo</RomUrl>
             <ChangelogUrl
                 id="changelog"
@@ -75,12 +75,12 @@
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
             <BanksGappsUrl
             	id="banks_gapps"
-            	title="BaNkS Dynamic GApps"
+            	title="Banks Dynamic GApps"
             	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps</BanksGappsUrl>
-            <XDAUrl
+	        <XDAUrl
             	id="xda_thread"
-            	title="Xperia ZR thread on XDA"
-            	description="Visit rr-m thread">http://bit.ly/1XNE49O</XDAUrl>                	
-	</dogo>	
+            	title="Xperia ZR RR thread on XDA"
+            	description="Go to the thread">http://bit.ly/1XNE49O</XDAUrl>               	
+        </dogo>
     </Stable>
 </SlimOTA>
