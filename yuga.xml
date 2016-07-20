@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>Flyme OS</RomName>
-  <VersionName> 5.1.7.8R beta</VersionName>
-  <VersionNumber type="integer">20160711</VersionNumber>
-  <DirectUrl>https://raw.githubusercontent.com/Chippa-a/OTA/flyme/dogo/yuga/6.7.11/ota.zip</DirectUrl>
+  <VersionName> 5.1.7.18R beta</VersionName>
+  <VersionNumber type="integer">20160720</VersionNumber>
+  <DirectUrl>https://raw.githubusercontent.com/Chippa-a/OTA/flyme/yuga/ota/6.7.20/ota.zip</DirectUrl>
   <Android>5.1.1</Android>
-  <CheckMD5>4158150c695d73b9e059c2713a3bd0fb</CheckMD5>
-  <FileSize type="integer">33003317</FileSize>
+  <CheckMD5>057f65f50aecd8b5fa527fd83a5bfac0</CheckMD5>
+  <FileSize type="integer">44424711</FileSize>
   <Developer>Chippa_a</Developer>
   <WebsiteURL>http://bit.ly/29z8yd5</WebsiteURL>
   <DonateURL>http://bit.ly/1TFGDoG</DonateURL>
-  <Changelog>### Changelog 20160704
-* Flyme v5.1.7.8R
-* Updated to latest CM-12.1 with July security patch
-* Updated kernel
+  <Changelog>### Changelog 20160720
+* Flyme v5.1.7.18R
+* Added Xperia Camera + addons (used instead of Meizu)
+* Reorganized icons on Launcher
   </Changelog>
-  <AddonCount>2</AddonCount>
-  <AddonsURL>https://raw.githubusercontent.com/Chippa-a/OTA/flyme/addons/addons.xml</AddonsURL>
+ <!-- <AddonCount>2</AddonCount>
+  <AddonsURL>https://raw.githubusercontent.com/Chippa-a/OTA/flyme/addons/addons.xml</AddonsURL> -->
 </ROM>
