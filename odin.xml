@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>Flyme OS</RomName>
-  <VersionName> 5.1.7.18R beta</VersionName>
-  <VersionNumber type="integer">20160720</VersionNumber>
-  <DirectUrl>https://raw.githubusercontent.com/Chippa-a/OTA/flyme/odin/ota/6.7.20/ota.zip</DirectUrl>
+  <VersionName> 5.1.7.25R beta</VersionName>
+  <VersionNumber type="integer">20160726</VersionNumber>
+  <DirectUrl>https://raw.githubusercontent.com/Chippa-a/OTA/flyme/odin/ota/6.7.26/ota.zip</DirectUrl>
   <Android>5.1.1</Android>
-  <CheckMD5>012493969822595de5cee7a35f0a4120</CheckMD5>
-  <FileSize type="integer">44320910</FileSize>
+  <CheckMD5>a614ca06641a678a36a44fdc77f4e827</CheckMD5>
+  <FileSize type="integer">31112157</FileSize>
   <Developer>Chippa_a</Developer>
   <WebsiteURL>http://bit.ly/29telhC</WebsiteURL>
   <DonateURL>http://bit.ly/1TFGDoG</DonateURL>
-  <Changelog>### Changelog 20160720
-* Flyme v5.1.7.18R
-* Added Xperia Camera + addons (used instead of Meizu)
-* Reorganized icons on Launcher
+  <Changelog>### Changelog 20160726
+* Flyme v5.1.7.25R
   </Changelog>
  <!-- <AddonCount>2</AddonCount>
   <AddonsURL>https://raw.githubusercontent.com/Chippa-a/OTA/flyme/addons/addons.xml</AddonsURL> -->
