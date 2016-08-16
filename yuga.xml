@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>Flyme OS</RomName>
-  <VersionName> 5.1.8.8R beta</VersionName>
-  <VersionNumber type="integer">20160809</VersionNumber>
-  <DirectUrl>https://raw.githubusercontent.com/Chippa-a/OTA/flyme/yuga/ota/6.8.9/ota.zip</DirectUrl>
+  <VersionName> 5.1.8.15R beta</VersionName>
+  <VersionNumber type="integer">20160816</VersionNumber>
+  <DirectUrl>https://raw.githubusercontent.com/Chippa-a/OTA/flyme/yuga/ota/6.8.16/ota.zip</DirectUrl>
   <Android>5.1.1</Android>
-  <CheckMD5>41a86e846523e0399ec2f68ee54c416d</CheckMD5>
-  <FileSize type="integer">13398820</FileSize>
+  <CheckMD5>2b45548b7d8d69b808ee5da5e3699d53</CheckMD5>
+  <FileSize type="integer">11595445</FileSize>
   <Developer>Chippa_a</Developer>
   <WebsiteURL>http://bit.ly/29z8yd5</WebsiteURL>
   <DonateURL>http://bit.ly/1TFGDoG</DonateURL>
-  <Changelog>### Changelog 20160809
-* Flyme v5.1.8.8R
+  <Changelog>### Changelog 20160816
+* Flyme v5.1.8.15R
   </Changelog>
  <!-- <AddonCount>2</AddonCount>
   <AddonsURL>https://raw.githubusercontent.com/Chippa-a/OTA/flyme/addons/addons.xml</AddonsURL> -->
