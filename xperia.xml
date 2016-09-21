@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <yuga>
-            <Filename>ResurrectionRemix-M-v5.7.3-20160809-yuga.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.4-20160921-yuga.zip</Filename>
             <BuildsUrl
             	id="builds"
             	title="Latest Build"
-            	description="Download Latest Build">http://bit.ly/2aYiVWH</BuildsUrl>
+            	description="Download Latest Build">http://bit.ly/2d445mw</BuildsUrl>
             <RomUrl
                 id="rom"
                 title="ROM"
@@ -29,11 +29,11 @@
             	description="Go to the thread">http://bit.ly/22m9d4B</XDAUrl>
         </yuga>
         <odin>
-            <Filename>ResurrectionRemix-M-v5.7.3-20160809-odin.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.4-20160921-odin.zip</Filename>
             <BuildsUrl
             	id="builds"
             	title="Latest Build"
-            	description="Download Latest Build">http://bit.ly/2aIlVs4</BuildsUrl>
+            	description="Download Latest Build">http://bit.ly/2d4506K</BuildsUrl>
             <RomUrl
                 id="rom"
                 title="ROM"
@@ -56,11 +56,11 @@
             	description="Go to the thread">http://bit.ly/1TuTniw</XDAUrl>          	
         </odin>
         <dogo>
-            <Filename>ResurrectionRemix-M-v5.7.3-20160808-dogo.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.4-20160920-dogo.zip</Filename>
             <BuildsUrl
             	id="builds"
             	title="Latest Build"
-            	description="Download Latest Build">http://bit.ly/2bfS60Q</BuildsUrl>
+            	description="Download Latest Build">http://bit.ly/2d8hC8S</BuildsUrl>
             <RomUrl
                 id="rom"
                 title="ROM"
