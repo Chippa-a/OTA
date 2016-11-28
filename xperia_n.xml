@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <yuga>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161126-yuga</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161128-yuga</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/yuga/Nougat/ResurrectionRemix-N-v5.8.0-20161126-yuga.zip</RomUrl>
+                description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/yuga/Nougat/ResurrectionRemix-N-v5.8.0-20161128-yuga.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -25,11 +25,11 @@
             	description="Visit yuga thread on xda">http://forum.xda-developers.com/-/-t3507533</XDAUrl>
 	    </yuga>
         <odin>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161126-odin</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161128-odin</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/odin/Nougat/ResurrectionRemix-N-v5.8.0-20161126-odin.zip</RomUrl>
+                description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/odin/Nougat/ResurrectionRemix-N-v5.8.0-20161128-odin.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -48,11 +48,11 @@
             	description="Visit odin thread on xda">http://forum.xda-developers.com/-/-t3507531</XDAUrl>
 	    </odin>
         <dogo>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161126-dogo</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161128-dogo</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/dogo/Nougat/ResurrectionRemix-N-v5.8.0-20161126-dogo.zip</RomUrl>
+                description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/dogo/Nougat/ResurrectionRemix-N-v5.8.0-20161128-dogo.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
