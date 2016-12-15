@@ -5,20 +5,20 @@
             <id>1</id>
             <name>SuperSU</name>
             <description>Help You Root Your Devices</description>
-            <updated-at>2016-07-05</updated-at>
-            <size>4973493</size>
+            <updated-at>2016-12-15</updated-at>
+            <size>43000</size>
             <download-link>
-            https://download.chainfire.eu/969/SuperSU/UPDATE-SuperSU-v2.76-20160630161323.zip?retrieve_file=1
+            https://s3-us-west-2.amazonaws.com/supersu/download/zip/SuperSU-v2.79-201612051815.zip
             </download-link>
         </addon>
         <addon>
             <id>2</id>
             <name>Gapps</name>
             <description>Use Google Apps</description>
-            <updated-at>2016-07-09</updated-at>
-            <size>74754416</size>
+            <updated-at>2016-12-15</updated-at>
+            <size>512000</size>
             <download-link>
-            https://github.com/opengapps/arm/releases/download/20160709/open_gapps-arm-5.1-pico-20160709.zip
+            https://github.com/opengapps/arm/releases/download/20161215/open_gapps-arm-5.1-pico-20161215.zip
             </download-link>
         </addon>
     </addons>
