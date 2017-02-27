@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <yuga>
-            <Filename>RR-N-v5.8.1-20170217-yuga-Official.zip</Filename>
+            <Filename>RR-N-v5.8.2-20170227-yuga-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest builds">http://downloads.resurrectionremix.com/yuga/RR-N-v5.8.1-20170217-yuga-Official.zip</RomUrl>
+                description="Download latest builds">http://downloads.resurrectionremix.com/yuga/RR-N-v5.8.2-20170227-yuga-Official.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -23,13 +23,17 @@
             	id="xda_thread"
             	title="XDA"
             	description="Visit yuga thread on xda">http://forum.xda-developers.com/-/-t3507533</XDAUrl>
+	        <DonationUrl
+            	id="donate_paypal"
+            	title="Donate to device maintainer"
+            	description="PayPal">https://goo.gl/4f9ldi</DonationUrl>
 	    </yuga>
         <odin>
-            <Filename>RR-N-v5.8.1-20170217-odin-Official.zip</Filename>
+            <Filename>RR-N-v5.8.2-20170227-odin-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest builds">http://downloads.resurrectionremix.com/odin/RR-N-v5.8.1-20170217-odin-Official.zip</RomUrl>
+                description="Download latest builds">http://downloads.resurrectionremix.com/odin/RR-N-v5.8.2-20170227-odin-Official.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -46,13 +50,17 @@
             	id="xda_thread"
             	title="XDA"
             	description="Visit odin thread on xda">http://forum.xda-developers.com/-/-t3507531</XDAUrl>
+	        <DonationUrl
+            	id="donate_paypal"
+            	title="Donate to device maintainer"
+            	description="PayPal">https://goo.gl/4f9ldi</DonationUrl>
 	    </odin>
         <dogo>
-            <Filename>RR-N-v5.8.1-20170217-dogo-Official.zip</Filename>
+            <Filename>RR-N-v5.8.2-20170227-dogo-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest builds">http://downloads.resurrectionremix.com/dogo/RR-N-v5.8.1-20170217-dogo-Official.zip</RomUrl>
+                description="Download latest builds">http://downloads.resurrectionremix.com/dogo/RR-N-v5.8.2-20170227-dogo-Official.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -69,6 +77,10 @@
             	id="xda_thread"
             	title="XDA"
             	description="Visit dogo thread on xda">http://forum.xda-developers.com/-/-t3507530</XDAUrl>
+	        <DonationUrl
+            	id="donate_paypal"
+            	title="Donate to device maintainer"
+            	description="PayPal">https://goo.gl/4f9ldi</DonationUrl>
 	    </dogo>
     </Stable>
 </SlimOTA>
