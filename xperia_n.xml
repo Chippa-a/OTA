@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <yuga>
-            <Filename>RR-N-v5.8.2-20170324-yuga-Official.zip</Filename>
+            <Filename>RR-N-v5.8.2-20170405-yuga-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest builds">http://downloads.resurrectionremix.com/yuga/RR-N-v5.8.2-20170324-yuga-Official.zip</RomUrl>
+                description="Download latest builds">http://downloads.resurrectionremix.com/yuga/RR-N-v5.8.2-20170405-yuga-Official.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -29,11 +29,11 @@
             	description="PayPal">https://goo.gl/4f9ldi</DonationUrl>
 	    </yuga>
         <odin>
-            <Filename>RR-N-v5.8.2-20170324-odin-Official.zip</Filename>
+            <Filename>RR-N-v5.8.2-20170405-odin-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest builds">http://downloads.resurrectionremix.com/odin/RR-N-v5.8.2-20170324-odin-Official.zip</RomUrl>
+                description="Download latest builds">http://downloads.resurrectionremix.com/odin/RR-N-v5.8.2-20170405-odin-Official.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -56,11 +56,11 @@
             	description="PayPal">https://goo.gl/4f9ldi</DonationUrl>
 	    </odin>
         <dogo>
-            <Filename>RR-N-v5.8.2-20170324-dogo-Official.zip</Filename>
+            <Filename>RR-N-v5.8.2-20170405-dogo-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest builds">http://downloads.resurrectionremix.com/dogo/RR-N-v5.8.2-20170324-dogo-Official.zip</RomUrl>
+                description="Download latest builds">http://downloads.resurrectionremix.com/dogo/RR-N-v5.8.2-20170405-dogo-Official.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
