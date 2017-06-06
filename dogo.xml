@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <RomName>Flyme OS</RomName>
-  <VersionName> 5.1.12.23R beta</VersionName>
-  <VersionNumber type="integer">20161213</VersionNumber>
-  <DirectUrl>https://basketbuild.com/uploads/devs/Chippa_a/dogo/FlymeOS/flyme_Xperia-ZR_Chippa_a_5.1.12.23R.zip</DirectUrl>
-  <Android>5.1.1</Android>
-  <CheckMD5>8715b6c7cd058c8a84a69e05639be451</CheckMD5>
-  <FileSize type="integer">590665200</FileSize>
+  <RomName>FlymeOS</RomName>
+  <VersionName><![CDATA[ FlymeOS_6.7.6.5IR_beta ]]></VersionName>
+  <VersionNumber type="integer">20170606</VersionNumber>
+  <DirectUrl>https://raw.githubusercontent.com/Chippa-a/OTA/flyme/dogo/ota-dogo-20170606.zip</DirectUrl>
+  <HttpUrl>http://raw.githubusercontent.com/Chippa-a/OTA/flyme/dogo</HttpUrl>
+  <Android>6.0.1</Android>
+  <CheckMD5>cdab7af7d33bdb4107b1ce450b16b533</CheckMD5>
+  <FileSize type="integer">17560245</FileSize>
   <Developer>Chippa_a</Developer>
-  <WebsiteURL>http://bit.ly/2381N5v</WebsiteURL>
-  <DonateURL>http://bit.ly/1TFGDoG</DonateURL>
-  <Changelog>### Changelog 20170204
-* Flyme v5.1.12.23R
-* Close to Flyme 6 UI
-  </Changelog>
-  <AddonCount>2</AddonCount>
-  <AddonsURL>https://raw.githubusercontent.com/Chippa-a/OTA/flyme/addons/addons.xml</AddonsURL>
+  <WebsiteURL nil="true">http://bit.ly/2rxDmVD</WebsiteURL>
+  <DonateURL nil="true">http://bit.ly/1TFGDoG</DonateURL>
+  <Changelog>- Flyme 6.7.6.5 (2017-06-06)</Changelog>
 </ROM>
