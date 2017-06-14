@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>FlymeOS</RomName>
-  <VersionName><![CDATA[ FlymeOS_6.7.6.5IR_beta ]]></VersionName>
-  <VersionNumber type="integer">20170606</VersionNumber>
-  <DirectUrl>https://raw.githubusercontent.com/Chippa-a/OTA/flyme/dogo/ota-dogo-20170606.zip</DirectUrl>
+  <VersionName><![CDATA[ FlymeOS_6.7.6.13IR_beta ]]></VersionName>
+  <VersionNumber type="integer">20170614</VersionNumber>
+  <DirectUrl>https://raw.githubusercontent.com/Chippa-a/OTA/flyme/dogo/ota-dogo-20170614.zip</DirectUrl>
   <HttpUrl>http://raw.githubusercontent.com/Chippa-a/OTA/flyme/dogo</HttpUrl>
   <Android>6.0.1</Android>
-  <CheckMD5>cdab7af7d33bdb4107b1ce450b16b533</CheckMD5>
-  <FileSize type="integer">17560245</FileSize>
+  <CheckMD5>11b272c1fed24f65b2245201ac3c1703</CheckMD5>
+  <FileSize type="integer">68930246</FileSize>
   <Developer>Chippa_a</Developer>
   <WebsiteURL nil="true">http://bit.ly/2rxDmVD</WebsiteURL>
   <DonateURL nil="true">http://bit.ly/1TFGDoG</DonateURL>
-  <Changelog>- Flyme 6.7.6.5 (2017-06-06)</Changelog>
+  <Changelog>- Flyme 6.7.6.13 (2017-06-13)
+- Updated kernel
+- Updated OTA application
+ </Changelog>
 </ROM>
