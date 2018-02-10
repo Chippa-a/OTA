@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <yuga>
+            <Filename>RR-O-v6.0.0-20180210-yuga-Official.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download latest builds">http://downloads.resurrectionremix.com/yuga/RR-O-v6.0.0-20180210-yuga-Official.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/oreo/CHANGELOG.mkdn</ChangelogUrl>
+           <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
+	        <XDAUrl
+            	id="xda_thread"
+            	title="XDA"
+            	description="Visit yuga thread on xda">http://forum.xda-developers.com/-/-t3747588</XDAUrl>
+	        <DonationUrl
+            	id="donate_paypal"
+            	title="Donate"
+            	description="PayPal">https://goo.gl/4f9ldi</DonationUrl>
+	    </yuga>
+        <odin>
+            <Filename>RR-O-v6.0.0-20180210-odin-Official.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download latest builds">http://downloads.resurrectionremix.com/odin/RR-O-v6.0.0-20180210-odin-Official.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/oreo/CHANGELOG.mkdn</ChangelogUrl>
+           <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
+	        <XDAUrl
+            	id="xda_thread"
+            	title="XDA"
+            	description="Visit odin thread on xda">http://forum.xda-developers.com/-/-t3747589</XDAUrl>
+	        <DonationUrl
+            	id="donate_paypal"
+            	title="Donate"
+            	description="PayPal">https://goo.gl/4f9ldi</DonationUrl>
+	    </odin>
+        <dogo>
+            <Filename>RR-O-v6.0.0-20180210-dogo-Official.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download latest builds">http://downloads.resurrectionremix.com/dogo/RR-O-v6.0.0-20180210-dogo-Official.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/oreo/CHANGELOG.mkdn</ChangelogUrl>
+           <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
+	        <XDAUrl
+            	id="xda_thread"
+            	title="XDA"
+            	description="Visit dogo thread on xda">http://forum.xda-developers.com/-/-t3747591</XDAUrl>
+	        <DonationUrl
+            	id="donate_paypal"
+            	title="Donate"
+            	description="PayPal">https://goo.gl/4f9ldi</DonationUrl>
+	    </dogo>
+    </Stable>
+</SlimOTA>
